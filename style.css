@@ -1,0 +1,30 @@
+.p-top {
+  margin-top: 0%;
+  color: green;
+}
+
+.category {
+  margin-bottom: 0;
+  color: red;
+}
+.head {
+  text-align: center;
+  color: rgb(151, 92, 92);
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 30px;
+}
+
+.container {
+  margin: 40px auto;
+  align-items: center;
+}
+
+.content {
+  width: 50%;
+  align-items: center;
+  padding: 20px 350px;
+}
+
+li {
+    border-bottom: 2px solid green;
+}
